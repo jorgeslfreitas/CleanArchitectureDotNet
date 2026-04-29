@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Mostruario.Api/Mostruario.Api.csproj" />
+    <Project Path="src/Mostruario.Application/Mostruario.Application.csproj" />
+    <Project Path="src/Mostruario.Domain/Mostruario.Domain.csproj" />
+    <Project Path="src/Mostruario.Infrastructure/Mostruario.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Mostruario.Application.Tests/Mostruario.Application.Tests.csproj" />
+  </Folder>
+</Solution>
